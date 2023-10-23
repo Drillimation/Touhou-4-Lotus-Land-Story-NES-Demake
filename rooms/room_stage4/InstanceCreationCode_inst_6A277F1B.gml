@@ -1,0 +1,1 @@
+default_path = path_kedama_05

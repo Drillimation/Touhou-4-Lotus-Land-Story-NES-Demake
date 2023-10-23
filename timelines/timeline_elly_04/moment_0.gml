@@ -1,0 +1,1 @@
+scr_declare_spell_card("ELLY",spr_stage3_spell,2);

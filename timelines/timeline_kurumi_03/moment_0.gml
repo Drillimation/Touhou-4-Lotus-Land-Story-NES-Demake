@@ -1,0 +1,1 @@
+scr_declare_spell_card("KURUMI",spr_stage2_spell,0);

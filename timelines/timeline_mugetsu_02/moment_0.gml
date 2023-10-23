@@ -1,0 +1,1 @@
+scr_declare_spell_card("MUGETSU",spr_stageextra_spell,0);

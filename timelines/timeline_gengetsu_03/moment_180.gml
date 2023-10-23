@@ -1,0 +1,1 @@
+ammo = (global.difficulty * 4) + 4;

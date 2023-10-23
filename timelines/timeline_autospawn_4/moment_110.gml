@@ -1,0 +1,1 @@
+instance_create_depth(176,24,0,obj_autospawn);
