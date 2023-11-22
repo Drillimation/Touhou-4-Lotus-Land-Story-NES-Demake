@@ -7,7 +7,7 @@ An NES-style adaptation of the PC-98 game.
 
 Reimu Hakurei and Marisa Kirisame return as playable characters. The plot is pretty much the same as the second game with the Hakurei Shrine being overrun by youkai again. This time, the adventure takes a turn and leads to Mugenkan, where the playable characters will either fulfill their best dream or see their worst nightmare. *Lotus Land Story* also marked the debut of Yuuka Kazami, who would later return as a playable character in *Touhou 9: The Phantasmagoria of Flower View*.
 
-*Lotus Land Story* may have been famous for the song *Bad Apple!!*, but wasn't known to many players until the NES demake port released. Before that, *Touhou 6: The Embodiment of Scarlet Devil* is the game that formally introduced most players to the *Touhou Project* franchise. As a result of the demake, the game is now playable on modern machines without the need to configure an emulator.
+*Lotus Land Story* may have been famous for the song *Bad Apple!!*, but the game wasn't known to many players until the NES demake port released. Before that, *Touhou 6: The Embodiment of Scarlet Devil* is the game that formally introduced most players to the *Touhou Project* franchise. As a result of the demake, the game is now playable on modern machines without the need to configure an emulator.
 
 ## About this repository
 In 2023, Drillimation released the source code for the game. This repository is intended for GameMaker users wanting to develop their own retro style *Touhou Project* fangame or danmaku shooter, or to improve upon its flaws.
